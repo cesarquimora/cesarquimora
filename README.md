@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cesarquimora
-- 👀 I’m interested in Python scraping, Discord.py
+- 👀 I’m interested in tecnology.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on SNEAKER COPPING.
 - 📫 How to reach me in Twitter @cesarrquimora
 
 <!---
