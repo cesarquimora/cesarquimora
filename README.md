@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @cesarquimora
-- 👀 I’m interested in tecnology.
-- 🌱 I’m currently learning Python.
-- 📫 How to reach me in Twitter @cesarrquimora
-
-<!---
-cesarquimora/cesarquimora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey, i'm currently developing a bot with a friend of mine that is about earning about 1.3% each day in capital.
