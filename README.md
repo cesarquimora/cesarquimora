@@ -1,3 +1,64 @@
-Hey, i'm currently developing a bot with a friend of mine that is about earning about 1.3% each day in capital.
 
-If you are intersted in the project you can text me on Instagram like @cesarrqui
+<h1 align= 'center'>👋🏽 Hi, I'm Cesar Qui 🧮👨🏽‍🔬</h1> 
+
+
+🌱 I'm a **Economist student, Data Scientist Student** I love to analyze trending, resolve problems and create strategies to improve my productivity.
+
+📚 I'm an autodidact person, I like to learn about technology, history, science and business. Furthermore, I consider myself an eternal student.
+
+🌏 I Think that I'm very optimistic, determined and analytical. I love the challenges ✨
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/cesar-qui-270236205/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/cesarrqui"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+## 🎯Some technologies I use
+
+#### Languages:
+
+
+![image]( https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+
+#### Libraries:
+
+
+![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)  ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![image](https://img.shields.io/badge/Selenium-239120?style=for-the-badge&logo=selenium&logoColor=white)
+
+#### Data Viz:
+
+![image](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
+
+
+#### WorkSpace
+![image](https://img.shields.io/badge/Deepnote-3793EF?style=for-the-badge&logo=Deepnote&logoColor=white) 
+![image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) 
+![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
+
+#### Data:
+
+![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+
+
+#### Education:
+
+![image](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)
+![image](https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white)
+![image](https://img.shields.io/badge/UAS-14BF96?style=for-the-badge&logo=eagle&logoColor=white)
+
+#### Others:
+
+![image](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) 
+![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  ![image](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) 
+![image](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white) 
+
+
+
+
+
+## 🤔Anything else
+
+🌱 Now I'm improving my logical thinking with AI models on data cleaning. Also, I'm improving my English skills.
+
+💬 If you have any questions or think you can help me improve, write me.
