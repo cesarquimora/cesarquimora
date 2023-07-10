@@ -61,6 +61,3 @@
 🌱 Now I'm improving my logical thinking with AI models on data cleaning. Also, I'm improving my English skills.
 
 💬 If you have any questions or think you can help me improve, write me.
-# README.md
-# README
-# README
