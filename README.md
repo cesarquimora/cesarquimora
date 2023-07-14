@@ -1,8 +1,11 @@
 
-<h1 align= 'center'>👋🏽 Hi, I'm Cesar Qui 🧮👨🏽‍🔬</h1> 
+<h1 align= 'center'>Cesar Qui </h1> 
 
+<p align="center"> 📊🌎 Economist student, 👨🏽‍🔬🧮 Data Scientist Student</p> 
+<details align="center">
+  <summary> <samp>&#9776; About me:</samp></summary>  
 
-🌱 I'm a **Economist student, Data Scientist Student** I love to analyze trending, resolve problems and create strategies to improve my productivity.
+📊I am in the third year of economics at UAS located in Mazatlan Sinaloa.
 
 📚 I'm an autodidact person, I like to learn about technology, history, science and business. Furthermore, I consider myself an eternal student.
 
@@ -11,10 +14,12 @@
 <p align='center'>
   <a href="https://www.linkedin.com/in/cesar-qui-270236205/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/cesarrqui"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=cesarquimora07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+</details>
 
-
-## 🎯Some technologies I use
+<details align="center">
+  <summary> <samp>&#9776; Technologies I use:</samp></summary>  
 
 #### Languages:
 
@@ -51,13 +56,17 @@
 
 ![image](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) 
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  ![image](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) 
+</details>
 
 
 
 
+<details align="center">
+  <summary> <samp>&#9776; My next steps:</samp></summary> 
 
-## 🤔Anything else
+🧮 I'm improving my logical thinking with AI models. 
 
-🌱 Now I'm improving my logical thinking with AI models on data cleaning. Also, I'm improving my English skills.
+🇺🇸 I'm improving my English skills.
+
 
 💬 If you have any questions or think you can help me improve, write me.
